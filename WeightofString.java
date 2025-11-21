@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WeightOfString {
+public class WeightofString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -18,3 +18,4 @@ public class WeightOfString {
         System.out.println("Weight of string = " + weight);
     }
 }
+
