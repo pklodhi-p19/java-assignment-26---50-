@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SumOfPowers {
+public class SumofPowers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -22,3 +22,4 @@ public class SumOfPowers {
         System.out.println("Sum = " + sum);
     }
 }
+
